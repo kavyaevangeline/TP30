@@ -9,7 +9,6 @@ public class Demo_1 {
 				System.out.println(" --- happy newyear in advance ---");
 
 
-		
 	}
 
 }
