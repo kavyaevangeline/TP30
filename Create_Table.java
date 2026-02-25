@@ -33,7 +33,7 @@ public class Create_Table {
 			
 			if(name.equals("Name") && age == Age) {
 				
-				System.out.println(name +"data stored successfully"+ age +"data stored sucessfully");
+				System.out.println(name +"name data stored successfully"+ age +"age data stored sucessfully");
 				break;
 			}
 			
